@@ -1,0 +1,26 @@
+From: Microsoft Support <microsoft-security@gmail.com>
+To: employee@company.com
+Subject: Action Required: Your Microsoft 365 Password Has Expired
+
+Dear User,
+
+Your Microsoft Office 365 password expired today. Immediate action is required
+to avoid losing access to your account and all associated files.
+
+Your account will be suspended in the next 24 hours if you do not reset your
+password immediately.
+
+Please log in and update your information here:
+https://bit.ly/3xMs0ftR3set
+
+Note: If you do not complete this process today, IT will be forced to revoke
+your access credentials and you will need to contact HR to restore access.
+
+This is a time sensitive security alert from our security team. Please act now.
+
+For your protection, this message was encrypted. To protect your account, do
+not forward this email to anyone.
+
+Regards,
+Microsoft Account Security
+microsoft-noreply@gmail.com

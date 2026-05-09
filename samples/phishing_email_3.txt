@@ -1,0 +1,31 @@
+From: hr-payroll@company-hr-portal.xyz
+To: all-staff@targetcorp.com
+Subject: Congratulations! You Have Won a Gift Card - Action Required
+
+Dear Client,
+
+Congratulations! You have been selected as a winner in our annual employee
+recognition program. You have won a $500 Amazon gift card as a reward for
+your outstanding performance this year.
+
+To claim your free prize, please verify your identity by signing in to our
+secure portal:
+
+http://192.168.1.47/claim-reward?id=EMP8823&token=WIN2024
+
+This offer expires today. Act now or lose your reward permanently.
+
+Please find the attached invoice for your records. Open the file below to
+confirm your personal details before we process the gift card:
+
+Filename: employee_reward_form.docm
+
+Also attached: claim_instructions.zip
+
+This is a legitimate company initiative. We will never ask for your bank
+account details by phone. For security purposes, keep this email confidential
+and do not share with colleagues.
+
+Best regards,
+HR Rewards Department
+hr-rewards@company-hr-portal.xyz

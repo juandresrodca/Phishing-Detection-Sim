@@ -1,0 +1,26 @@
+From: security-alerts@paypa1-support.ru
+To: john.doe@example.com
+Subject: URGENT: Your PayPal Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. Your account has been
+temporarily suspended due to multiple failed login attempts from an unrecognized
+device.
+
+To restore access immediately, you must verify your identity within 24 hours or
+your account will be permanently closed and all pending transactions will be cancelled.
+
+Click here to verify your account now:
+http://paypa1-support.ru/secure/verify?user=john.doe&token=84729HFSD993
+
+Failure to respond within the deadline will result in permanent account termination.
+
+For security purposes, please do not share this email with anyone.
+
+This email contains your security document. Please open the attachment:
+Filename: AccountVerification.exe
+
+Best regards,
+PayPal Security Team
+security-noreply@paypa1-support.ru

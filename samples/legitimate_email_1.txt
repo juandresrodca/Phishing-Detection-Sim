@@ -1,0 +1,31 @@
+From: newsletter@medium.com
+To: subscriber@example.com
+Subject: Your Weekly Reading List - Top Stories This Week
+
+Hi there,
+
+Here is your curated weekly reading list based on your interests in technology
+and software development.
+
+Top stories this week:
+
+1. "The Future of Cloud Architecture" by Jane Smith
+   Read on Medium: https://medium.com/the-future-of-cloud-architecture
+
+2. "10 Python Tips Every Developer Should Know" by Carlos Rivera
+   Read on Medium: https://medium.com/10-python-tips-developers
+
+3. "Understanding Zero Trust Security" by Alex Johnson
+   Read on Medium: https://medium.com/understanding-zero-trust
+
+You can manage your notification preferences and subscription settings from
+your account dashboard at https://medium.com/settings/notifications.
+
+If you received this email by mistake or wish to unsubscribe, click here:
+https://medium.com/unsubscribe?token=abc123xyz
+
+Thank you for reading Medium. We hope you find these stories insightful.
+
+Best,
+The Medium Team
+medium.com | San Francisco, CA
