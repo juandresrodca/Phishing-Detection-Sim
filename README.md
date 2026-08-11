@@ -78,13 +78,13 @@ phishing-detection-simulator/
 
 ## Detection Logic
 
-### 1 — Keyword Analysis (`keyword_detector.py`)
+### 1 — Keyword Analysis (`keyword_detector.py`).
 Scans the full email body against three lists:
 - **Phishing keywords** — `"verify your account"`, `"click here"`, `"password expired"`, …
 - **Urgency phrases** — `"within 24 hours"`, `"account will be closed"`, `"final notice"`, …
 - **Social engineering** — `"for security purposes"`, `"do not share this"`, …
 
-### 2 — Domain & URL Analysis (`domain_checker.py`)
+### 2 — Domain & URL Analysis (`domain_checker.py`).
 For every URL and the `From:` header:
 - Suspicious TLDs (`.ru`, `.tk`, `.xyz`, `.click`, …)
 - Brand names used as subdomains of unrelated domains (`paypal.attacker.com`)
@@ -92,7 +92,7 @@ For every URL and the `From:` header:
 - IP-address URLs that bypass domain reputation lookups
 - URL shorteners hiding the true destination
 - Sender display-name / email domain mismatch
-- Corporate brand impersonated via a free email provider (Gmail, Outlook, …)
+- Corporate brand impersonated via a free email provider (Gmail, Outlook, …).
 
 ### 3 — Attachment Analysis (`attachment_scanner.py`)
 Matches filenames in both body and headers, classified in four tiers:
